@@ -1,1 +1,1 @@
-# DataAnalystSQLproject
+# DataAnalystPowerBIproject
