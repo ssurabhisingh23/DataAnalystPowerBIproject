@@ -110,24 +110,6 @@ Avg Work-Life Balance = AVERAGE('Survey Data'[Work-Life Balance Score])
 - Easy-to-read KPI cards for quick insights
 - Comprehensive view of survey data on a single page
 
-## 🔄 Reproducibility
-
-### Option 1: View Published Dashboard
-Access the live dashboard: [Power BI Service Link - *Update with your published link*]
-
-### Option 2: Download and Explore Locally
-1. Download the `Data_Professional_Survey.pbix` file from this repository
-2. Download Power BI Desktop (free) from Microsoft's official website
-3. Open the `.pbix` file in Power BI Desktop
-4. Explore the dashboard and underlying data model
-5. Modify visualizations or create your own analysis
-
-### Option 3: Recreate from Source Data
-1. Download the raw dataset: `survey_data.xlsx`
-2. Import into Power BI Desktop
-3. Follow the data cleaning steps outlined in the Methodology section
-4. Build visualizations based on the insights discovered
-
 ## 🚀 Skills Demonstrated
 
 **Technical Skills:**
@@ -149,17 +131,6 @@ Access the live dashboard: [Power BI Service Link - *Update with your published 
 - Dashboard layout and UX principles
 - Color theory and visual hierarchy
 - Accessibility and readability optimization
-
-## 📈 Future Enhancements
-
-- **Temporal Analysis:** Add year-over-year comparison if historical data becomes available
-- **Advanced Segmentation:** Include industry-specific salary breakdowns and role transitions
-- **Predictive Analytics:** Incorporate forecasting for salary trends using Power BI's AI features
-- **Drill-Through Pages:** Create detailed pages for each job role with granular insights
-- **Additional Metrics:** Add cost of living adjustments for geographic salary comparisons
-- **Survey Expansion:** Gather more responses to improve statistical significance
-- **Mobile Optimization:** Create mobile-friendly version of the dashboard
-- **Educational Pathways:** Analyze correlation between education level and salary/satisfaction
 
 ## 📚 Learnings & Challenges
 
